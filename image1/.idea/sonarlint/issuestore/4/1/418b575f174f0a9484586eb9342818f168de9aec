@@ -1,0 +1,27 @@
+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¥ÏäÓœ.
+]squid:UselessImportCheck"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ8¥ÏäÓœ.
+Isquid:S1989"(Add a "try/catch" block for "getWriter".(Ó”ó–ùÿÿÿÿ8¥ÏäÓœ.
+Isquid:S1989"(Add a "try/catch" block for "getWriter".(Ó”ó–ùÿÿÿÿ8¥ÏäÓœ.
+[
+squid:S899";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ8¥ÏäÓœ.
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(œÁµS8¥ÏäÓœ.
+Isquid:S1989"(Add a "try/catch" block for "getWriter".(Ó”ó–ùÿÿÿÿ8¥ÏäÓœ.
+Gsquid:S1989"&Add a "try/catch" block for "valueOf".(üø‘’úÿÿÿÿ8¥ÏäÓœ.
+Isquid:S1989"(Add a "try/catch" block for "getWriter".(Ó”ó–ùÿÿÿÿ8¥ÏäÓœ.
+Lsquid:S1989"+Add a "try/catch" block for "sendRedirect".(ñ¸´äÿÿÿÿÿ8¥ÏäÓœ.
+]squid:S1075"ARefactor your code to get this URI from a customizable parameter.(ÑÊŸ8¥ÏäÓœ.
+Esquid:S1989"*Add a "try/catch" block for "doSelectOne".(äû„-8¥ÏäÓœ.
+Ksquid:S1989"*Add a "try/catch" block for "doSelectAll".(ÊÜ…ßşÿÿÿÿ8¥ÏäÓœ.
+Asquid:S1989"&Add a "try/catch" block for "valueOf".(äû„-8¥ÏäÓœ.
+Ysquid:UselessImportCheck"0Remove this unused import 'java.io.PrintWriter'.(ÓŞÏÛ8¥ÏäÓœ.
+Dsquid:S1989"(Add a "try/catch" block for "getWriter".(«Êò¹8¥ÏäÓœ.
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¥ÏäÓœ.
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(™Ï¢…øÿÿÿÿ8¨Ê–¡.
+jsquid:S4042"IUse "java.nio.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8¥ÏäÓœ.
+Isquid:S1989"(Add a "try/catch" block for "getWriter".(Ó”ó–ùÿÿÿÿ8¥ÏäÓœ.
+Dsquid:S1989"(Add a "try/catch" block for "getWriter".(ÌòÑÀ8¥ÏäÓœ.
+Isquid:S1989"(Add a "try/catch" block for "getWriter".(Õùšªşÿÿÿÿ8¥ÏäÓœ.
+Gsquid:S1989"&Add a "try/catch" block for "valueOf".(õùşÒùÿÿÿÿ8¥ÏäÓœ.
+esquid:S1192"IDefine a constant instead of duplicating this literal "image_id" 4 times.(Şí­õ8¥ÏäÓœ.

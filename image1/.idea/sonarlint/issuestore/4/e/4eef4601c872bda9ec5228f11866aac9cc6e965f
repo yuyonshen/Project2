@@ -1,0 +1,17 @@
+
+Fsquid:S1148""#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¸±ÁØ¡.
+osquid:S1192:"LDefine a constant instead of duplicating this literal "upload_time" 3 times.(‘ù¬„ıÿÿÿÿ8¸±ÁØ¡.
+ssquid:UselessImportCheck"CRemove this unused import 'java.util.concurrent.ConcurrentHashMap'.(ÓŠÓøúÿÿÿÿ8¸±ÁØ¡.
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÇúªÓşÿÿÿÿ8¸±ÁØ¡.
+squid:S1319)"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¼úêc8¸±ÁØ¡.
+psquid:S1192<"MDefine a constant instead of duplicating this literal "content_type" 3 times.(í½™¼ùÿÿÿÿ8¸±ÁØ¡.
+Fsquid:S1148A"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8µ¤‹Ù¡.
+isquid:S11928"KDefine a constant instead of duplicating this literal "image_name" 3 times.(è«®8¸±ÁØ¡.
+Fsquid:S1148a"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¸±ÁØ¡.
+Gsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¸±ÁØ¡.
+gsquid:S11927"IDefine a constant instead of duplicating this literal "image_id" 3 times.(ßÒ‹ñ8¸±ÁØ¡.
+Fsquid:S1148t"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¸±ÁØ¡.
+jsquid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(¯âóµ8¸±ÁØ¡.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿê§¯8¸±ÁØ¡.
